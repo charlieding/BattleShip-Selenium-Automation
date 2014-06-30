@@ -1,6 +1,6 @@
 BattleShip-Selenium-Automation Code
 /**Note: This requires firefox and selenium plugin installation
-* This was my thinking out of the box solution to this problem. I did not have a chance to optimize a solution, rather this is just "A" solution.
+* This was my thinking out of the box solution to this problem. I trying to use a radically different approach than anyone else. I did not have a chance to optimize a solution, rather this is just "A" solution. If I had more time, this solution can be easily optimized via JAVA extensions available in Selenium IDE.
 **/
 ==============================
 
